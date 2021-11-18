@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Douglas!
+
+I’m a Tech enthusiast and IT professional.👋
 
 - 🔭 I’m currently working on Kubernetes
 - 🌱 I’m currently learning Zabbix
