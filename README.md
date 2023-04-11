@@ -2,10 +2,10 @@
 
 I’m a Tech enthusiast and IT professional.👋
 
-- 🔭 I’m currently working on Kubernetes
-- 🌱 I’m currently learning Zabbix
-- 👯 I’m looking to collaborate on Kubernetes
-- 🤔 I’m looking for help with Linux
+- 🔭 I’m currently working on F5 Load Balance (LTM)
+- 🌱 I’m currently learning Microsoft Azure Cloud
+- 👯 I’m looking to collaborate on Kubernnetes
+- 🤔 I’m looking for help with Kubernnetes
 - 💬 Ask me about Linux
 - 📫 How to reach me: dvieira@gmail.com
 
