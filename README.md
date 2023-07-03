@@ -3,9 +3,9 @@
 I’m a Tech enthusiast and IT professional.👋
 
 - 🔭 I’m currently working on F5 Load Balance (LTM)
-- 🌱 I’m currently learning Microsoft Azure Cloud
+- 🌱 I’m currently studing for Microsoft Azure Cloud AZ-104
 - 👯 I’m looking to collaborate on Kubernnetes
-- 🤔 I’m looking for help with Kubernnetes
+- 🤔 I’m looking for help with Azure
 - 💬 Ask me about Linux
 - 📫 How to reach me: dvieira@gmail.com
 
